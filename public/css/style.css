@@ -1,0 +1,70 @@
+/* background for the jumbotron section after the navbar */
+#bnr {
+    background: url("../imgs/header6.jpg");
+    
+}
+
+/*  footer style */
+
+footer {
+    text-align: center;
+    font-weight: bold;
+}
+.footer {
+    color: white;
+}
+
+#foot {
+    color: white;
+}
+
+
+  /* resume infomation page style */
+#body {
+    background: url("../imgs/back1.jpg");
+    
+    border: 20px solid rgba(235, 226, 226, 0.37);
+}
+
+span.left {
+    float: right;
+    
+}  
+    
+ /* forms and employee table */
+
+.center {
+    
+    text-align: center;
+}
+
+.center1 {
+    display: inline-block;
+}
+
+/* tables style */
+
+td,th {
+    border: 1px solid black;
+}
+
+table {
+    border:  solid black;
+
+}
+
+form {
+    padding: 20px;
+}
+
+tr:nth-child(even) {
+    background-color: lightgrey;
+}
+
+th {
+    background-color: lightblue;
+    color: black;
+}
+
+
+
